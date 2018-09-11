@@ -11,7 +11,7 @@ global $venedor_settings;
 
   <style>
   .select-container .select-container-inner {
-    float: left;
+    float: right;
     width: 48%;
     margin-right: 4%;
     box-sizing: border-box;
